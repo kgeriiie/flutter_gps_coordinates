@@ -1,0 +1,9 @@
+{
+  "latitude_text": "Szélesség",
+  "longitude_text": "Hosszúság",
+  "meter_text": "méter",
+
+  "home_title_text": "Keresd a pozítciót",
+  "home_set_coordinates_button_text": "Koordináta beállítása",
+  "home_distance_not_available_text": "A távolsági adatok nem elérhetőek, először adj megy egy kezdő koordinátát."
+}

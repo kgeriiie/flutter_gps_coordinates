@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590886417040",
+    "project_id": "gps-coordinates-e8ee2",
+    "storage_bucket": "gps-coordinates-e8ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590886417040:android:1ad15ef690ff6cae659e15",
+        "android_client_info": {
+          "package_name": "com.kole.gps.flutter_gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590886417040-12gmqqiprcr1j4gmf720ioivr7aml2nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6q0b4VXEQ3pa15-w7IlbQQGAdYvlOdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590886417040-12gmqqiprcr1j4gmf720ioivr7aml2nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

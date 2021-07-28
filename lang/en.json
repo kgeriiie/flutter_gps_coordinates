@@ -1,0 +1,9 @@
+{
+  "latitude_text": "Latitude",
+  "longitude_text": "Longitude",
+  "meter_text": "meter",
+
+  "home_title_text": "Find position",
+  "home_set_coordinates_button_text": "Set coordinates",
+  "home_distance_not_available_text": "Distance not available yet, please set a coordinate first."
+}
